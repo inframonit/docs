@@ -1,8 +1,9 @@
 
 ![logo.inframonit.com](https://logo.inframonit.com/1/cover.png)
 
-# [bash.inframonit.com](https://bash.inframonit.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/inframonit/docs/edit/main/DOCS/MENU.md) 
-
+# [docs.inframonit.com](https://docs.inframonit.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/inframonit/docs/edit/main/ABOUT/MENU.md) 
+ 
+ [bash.inframonit.com](https://bash.inframonit.com/)
 + [Example usae cases - examples.inframonit.com](http://examples.inframonit.com)
 + [Blog - www.inframonit.com](https://www.inframonit.com/)
 + [Logotyp: logo.inframonit.com](https://logo.inframonit.com/)
@@ -11,7 +12,7 @@
 
 
 
-## About inframonit [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/inframonit/docs/edit/main/DOCS/ABOUT.md)
+## About inframonit [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/inframonit/docs/edit/main/ABOUT/ABOUT.md)
 
 this is part of apidsl for inframonit ecosystem to help You manage the applications
 
