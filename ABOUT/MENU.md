@@ -8,4 +8,3 @@
 + [Logotyp: logo.inframonit.com](https://logo.inframonit.com/)
 
 + [LICENSE](LICENSE)
-
