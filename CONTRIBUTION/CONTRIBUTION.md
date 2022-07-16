@@ -1,5 +1,5 @@
 
-## Contribution [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/flatedit/examples/edit/main/DOCS/CONTRIBUTION.md)
+## Contribution [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/flatedit/examples/edit/main/CONTRIBUTION/CONTRIBUTION.md)
 
 
 ### Update

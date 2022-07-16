@@ -1,5 +1,5 @@
 
-## About inframonit [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/inframonit/docs/edit/main/DOCS/ABOUT.md)
+## 5G Deployment [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/inframonit/docs/edit/main/CONTRIBUTION/DEPLOYMENT.md)
 
 10 steps you must take in order to help ensure #5G deployment success for your organization.
 
